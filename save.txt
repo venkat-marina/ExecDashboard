@@ -1,0 +1,10 @@
+Java-
+https://www.ics.uci.edu/~pattis/common/handouts/pythoneclipsejava/java.html
+
+NPM 
+Angular cli
+Node js
+
+https://nodejs.org/en/
+
+
